@@ -1,8 +1,9 @@
-### Hey 👋🏽, I'm Alexey
-
 ## I'm iOS developer, sports fan, traveler
-- :page_with_curl:  Check out [my resume]
-- :art: Check out [my portfolio]
+Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, working as a freelancer. Beside's programming, I enjoy scuba diving :ocean:, and shooting some hoops :basketball:.
+
+## Check it out:
+- :page_with_curl: [My resume]
+- :art: [My portfolio]
 
 ## I'm currently:
 - :guardsman: working as a freelancer
@@ -15,5 +16,5 @@
 - LinkedIn: <a href="https://www.linkedin.com/in/alexey-kolchedanstev-4a19251a6">Alexey Kolchedanstev</a>
 
 
-   [my resume]: https://hh.ru/resume/23132f8dff07bbc4d10039ed1f315138334834
-   [my portfolio]: https://github.com/Kolch/iOS-Dev-Portfolio
+   [My resume]: https://hh.ru/resume/23132f8dff07bbc4d10039ed1f315138334834
+   [My portfolio]: https://github.com/Kolch/iOS-Dev-Portfolio
