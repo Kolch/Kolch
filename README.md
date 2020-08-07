@@ -17,3 +17,11 @@ Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, wo
 
    [My resume]: https://hh.ru/resume/23132f8dff07bbc4d10039ed1f315138334834
    [My portfolio]: https://github.com/Kolch/iOS-Dev-Portfolio
+   
+   
+
+### 📚 My Latest Medium Articles
+
+<a href="https://medium.com/@omidnikrah@alex.k.appd">
+  <img src="https://github-readme-medium.vercel.app/?username=alex.k.appd&limit=2" />
+</a>
