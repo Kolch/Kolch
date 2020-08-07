@@ -8,7 +8,7 @@ Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, wo
 ## I'm currently:
 - :guardsman: working as a freelancer
 - :books: learning everything that comes to Apple and iOS development
-- :microscope: learning data science
+- :microscope: learning AI, ML
 
 ### Connect with me:
 - Email: <a href="mailto:alex.k.appd@gmail.com">alex.k.appd@gmail.com</a>
