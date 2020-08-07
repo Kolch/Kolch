@@ -1,16 +1,17 @@
-### Hi there 👋
+## I'm iOS developer, sports fan, traveler
+- :page_with_curl:  Check out [my resume]
+- :art: Check out [my portfolio]
 
-<!--
-**Kolch/Kolch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently:
+- :guardsman: working as a freelancer
+- :books: learning everything that comes to Apple and iOS development
+- :microscope: learning data science
 
-Here are some ideas to get you started:
+### Connect with me:
+- Email: <a href="mailto:alex.k.appd@gmail.com">alex.k.appd@gmail.com</a>
+- Telegram: <a href="https://t.me/kolch_a">@kolch_a</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/alexey-kolchedanstev-4a19251a6">Alexey Kolchedanstev</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   [my resume]: https://hh.ru/resume/23132f8dff07bbc4d10039ed1f315138334834
+   [my portfolio]: https://github.com/Kolch/iOS-Dev-Portfolio
