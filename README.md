@@ -25,3 +25,6 @@ Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, wo
 <a href="https://medium.com/@omidnikrah@alex.k.appd">
   <img src="https://github-readme-medium.vercel.app/?username=alex.k.appd&limit=2" />
 </a>
+
+#
+### I' ll be super thankful if you star some of my repositories ❤️
