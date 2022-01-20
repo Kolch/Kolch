@@ -1,5 +1,5 @@
 ## I'm iOS developer, sports fan, traveler
-Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, working as a freelancer. Beside's programming, I enjoy scuba diving :ocean:, and shooting some hoops :basketball:.
+Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, working in Rubetek. Beside's programming, I enjoy scuba diving :ocean:, and shooting some hoops :basketball:.
 
 ## Check it out:
 - :page_with_curl: [My resume]
