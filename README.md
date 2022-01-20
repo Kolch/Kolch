@@ -6,7 +6,7 @@ Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, wo
 - :art: [My portfolio]
 
 ## I'm currently:
-- :guardsman: working as a freelancer
+- :guardsman: trying to be the best version of myself
 - :books: learning everything that comes to Apple and iOS development
 - :microscope: learning AI, ML
 
