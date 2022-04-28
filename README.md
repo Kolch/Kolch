@@ -12,7 +12,7 @@ Hi, I'm Kolchedantsev Alexey, an iOS developer from Russia :bear:, currently, wo
 
 ### Connect with me:
 - Email: <a href="mailto:alex.k.appd@gmail.com">alex.k.appd@gmail.com</a>
-- Telegram: <a href="https://t.me/kolch_a">@kolch_a</a>
+- Telegram: <a href="https://t.me/kolch_a">@kolch_dev</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/kolch/">Alexey Kolchedanstev</a>
 
    [My resume]: https://drive.google.com/file/d/1hzqYKl6bLLDD2a0FA0HdD8jVBsk5k7hX/view?usp=sharing
